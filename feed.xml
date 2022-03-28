@@ -60,12 +60,12 @@ layout: null
         {% endif %}
       </author>
 
-      {% if post.category %}
-        <category term="{{ post.category | xml_escape }}" />
+      {% if post.Course %}
+        <Course term="{{ post.Course | xml_escape }}" />
       {% endif %}
 
       {% for tag in post.tags %}
-        <category term="{{ tag | xml_escape }}" />
+        <Course term="{{ tag | xml_escape }}" />
       {% endfor %}
 
       {% if post.excerpt and post.excerpt != empty %}
