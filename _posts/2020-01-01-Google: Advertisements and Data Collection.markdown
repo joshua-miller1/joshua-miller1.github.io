@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 1
-date: 2020-1-1
 img: honors_project_ss.png
 alt: image-alt
 Semester: Spring 2022

@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 6
-date: 2020-01-01    
 img: ransomeware.png
 alt: image-alt
 Semester: Spring 2021 
