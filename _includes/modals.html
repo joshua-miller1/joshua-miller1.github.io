@@ -19,6 +19,12 @@
                                 <p>{{ post.Purpose }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
+                                {% if post.Link %}
+                                    <li>Course:
+                                        <strong><a href={{ post.Link}} >Link</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
                                 {% if post.Course %}
                                     <li>Course:
                                         <strong><a href="http://startbootstrap.com">{{ post.Course }}</a>
