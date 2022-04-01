@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: honors_project_ss.png
+img: honors_project.png
 alt: image-alt
 Semester: Spring 2022
 Course: Honors Capstone
