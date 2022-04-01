@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 6
 img: clusters_algorithm.png
 alt: image-alt
 Course: Algorithms
