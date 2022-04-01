@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-img: game.png
+img: exploration_java_final.png
 alt: image-alt
 Course: Programming 1 
 Major: Computer Science 
