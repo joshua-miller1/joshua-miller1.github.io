@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 img: router_algorithm.png
 alt: image-alt
+Link: https://github.com/joshua-miller1/router_placement_algorithm
 Semester: Fall 2021
 Major: Computer Science 
 Course: Algorithms 

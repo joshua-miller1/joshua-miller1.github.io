@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 img: exploration_java_final.png
 alt: image-alt
+Link: https://github.com/joshua-miller1/Adventure_Array
 Course: Programming 1 
 Major: Computer Science 
 Semester: Fall 2018 
