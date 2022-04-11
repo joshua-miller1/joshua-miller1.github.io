@@ -1,5 +1,3 @@
 ---
-layout: "page"
+layout: default
 ---
-
-This page is my internship information!
