@@ -177,6 +177,7 @@ section {
     padding-top: 50px;
     padding-bottom: 50px;
     position:relative;
+    z-index: -1;
 }
 
 section h2 {
