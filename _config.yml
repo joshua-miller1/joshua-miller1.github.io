@@ -25,8 +25,8 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   #backgrounds 
-  primary: efe2ba
-  primary-rgb: "239,226,186"
+  primary: 697e92 #efe2ba
+  primary-rgb: "105,126,146" #"239,226,186"
   # nav bar and footer and text color on white 
   secondary: 4056a1 
   # text highlight in nav bar 
