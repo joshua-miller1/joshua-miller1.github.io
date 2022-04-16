@@ -24,9 +24,12 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 4c1c24
-  primary-rgb: "76,28,36"
-  secondary: f8e4ac
+  #backgrounds 
+  primary: efe2ba
+  primary-rgb: "239,226,186"
+  # nav bar and footer and text color on white 
+  secondary: 4056a1 
+  # text highlight in nav bar 
   secondary-dark: 2f4f5f  
 
 # Footer settings
@@ -38,14 +41,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/jt-miller/
   - title: github
     url: http://github.com/joshua-miller1
 
