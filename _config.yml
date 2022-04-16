@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 color:
   #backgrounds 
   primary: 697e92 #efe2ba
-  primary2: Palm Leaf #"105,126,146" #"239,226,186"
+  primary-rgb: "195, 212, 163" #"105,126,146" #"239,226,186"
   # nav bar and footer and text color on white 
   secondary: 4694d4
   # text highlight in nav bar 
