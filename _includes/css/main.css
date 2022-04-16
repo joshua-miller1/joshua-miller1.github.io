@@ -110,6 +110,12 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+.container {
+    width: 100vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -492,7 +498,13 @@ footer .footer-below {
 }
 
 .shuLogo {
-    background: url('https://joshua-miller1.github.io/resources/crest.png')
+    background: url('https://joshua-miller1.github.io/resources/crest.png');
     width: 60px;
     display: block;
+}
+
+video.center {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto; 
 }
