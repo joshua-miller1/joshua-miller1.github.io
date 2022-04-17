@@ -543,7 +543,11 @@ video.center {
     padding-top: 10vh;
 }
 
-@media (min-width: 1400px) {
+@media (max-width: 1400px) {
+    .container {
+        width: 1800px;
+    }
+
     header img {
         display: none;
     }
