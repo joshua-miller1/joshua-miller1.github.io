@@ -2,9 +2,9 @@
 title: Joshua Miller Digital Portfolio
 email: /f/xzboaolj
 url: https://joshua-miller1.github.io
-description: "A Digital Porfolio, examples from Computer Science and Cybersecurity"
+description: "Career Objective: Recent graduate in Computer Science and Cybersecurity searching for an internship for the summer of 2022. I have the intention of working for my Masters of Business Administration in Cybersecurity."
 keywords: ""
-skills: "Computer Science - Cybersecurity"
+skills: "Programming in Java, Python, C++ - Experience with HTML and CSS - Research Cybertreats and APT groups - Network Scanning with NMAP"
 meta_author: Miller Joshua
 
 # Google webmaster tools
@@ -34,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Joshua Miller
   location: Location
   social: Around the Web
   credits: Credits
