@@ -93,7 +93,6 @@ header .container {
 }
 
 header img {
-    display: inline-block;
     float: left;
     width: 20vw;
     height: 300px; 
@@ -104,7 +103,6 @@ header img {
 }
 
 header div.intro {
-    display: inline-block;
     float: right;
     width: 60vw;
     text-transform: uppercase;
