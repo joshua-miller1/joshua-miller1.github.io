@@ -112,7 +112,7 @@ header div.intro {
     margin: 0 auto 20px;
 }
 
-header div.intro .skills .description {
+header span.skills, span.description {
     font-size: 1.25em;
     font-weight: 700;
 }
