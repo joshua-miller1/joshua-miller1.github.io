@@ -94,7 +94,7 @@ header .container {
 
 header img {
     display: inline-block;
-    float: inline-start;
+    float: left;
     width: 20vw;
     height: 300px; 
     width: 300px;
@@ -103,9 +103,9 @@ header img {
     border-radius: 50%;
 }
 
-header intro {
+header div.intro {
     display: inline-block;
-    float: inline-end;
+    float: right;
     width: 60vw;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
