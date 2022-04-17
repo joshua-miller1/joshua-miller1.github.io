@@ -94,9 +94,8 @@ header .container {
 
 header img {
     float: left;
-    width: 20vw;
-    height: 300px; 
-    width: 300px;
+    height: 400px; 
+    width: 400px;
     object-fit: cover;
     margin: auto;
     border-radius: 50%;
@@ -113,10 +112,12 @@ header span.name {text-transform: uppercase; font-size: 3em; font-weight: 700;}
 
 header span.skills {
     font-size: 1.25em;
+    text-align: left;
 }
 
 header span.description {
     font-size: 1.25em;
+    text-align: left;
 }
 
 
