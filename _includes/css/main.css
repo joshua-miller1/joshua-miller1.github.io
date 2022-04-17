@@ -109,16 +109,14 @@ header div.intro {
     margin: 0 auto 20px;
 }
 
-header span.name {text-transform: uppercase; font-size: 3em;}
+header span.name {text-transform: uppercase; font-size: 3em; font-weight: 700;}
 
 header span.skills {
     font-size: 1.25em;
-    font-weight: 700;
 }
 
 header span.description {
     font-size: 1.25em;
-    font-weight: 700;
 }
 
 
