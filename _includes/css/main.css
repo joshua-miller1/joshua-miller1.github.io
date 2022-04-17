@@ -94,9 +94,10 @@ header .container {
 
 header img {
     display: block;
+    width: 30vw;
     float: left;
     height: 300px; 
-    width: 300px; 
+    
     object-fit: cover;
     margin: 0 auto 20px;
     border-radius: 50%;
@@ -104,6 +105,8 @@ header img {
 
 header .intro-text .name {
     display: block;
+    width: 60vw;
+    float:right;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
