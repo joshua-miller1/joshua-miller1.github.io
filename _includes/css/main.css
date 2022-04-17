@@ -94,6 +94,7 @@ header .container {
 
 header img {
     display: inline-block;
+    float: inline-start;
     width: 20vw;
     height: 300px; 
     width: 300px;
@@ -104,6 +105,7 @@ header img {
 
 header intro {
     display: inline-block;
+    float: inline-end;
     width: 60vw;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -112,8 +114,8 @@ header intro {
 }
 
 header .intro-text .skills .description {
-    font-size: 1.25em;
-    font-weight: 300;
+    font-size: 2em;
+    font-weight: 700;
 }
 
 .container {
