@@ -96,6 +96,7 @@ header img {
     display: inline-block;
     width: 20vw;
     height: 300px; 
+    width: 300px;
     object-fit: cover;
     margin: 0 auto 20px;
     border-radius: 50%;
