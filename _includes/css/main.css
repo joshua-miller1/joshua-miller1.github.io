@@ -545,7 +545,7 @@ video.center {
 
 @media (max-width: 1400px) {
     .container {
-        width: 1800px;
+        width: 90vw;
     }
 
     header img {
