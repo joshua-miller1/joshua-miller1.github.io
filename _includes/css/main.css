@@ -542,3 +542,9 @@ video.center {
     margin-right: auto; 
     padding-top: 10vh;
 }
+
+@media (min-width: 1400px) {
+    header img {
+        display: none;
+    }
+}
