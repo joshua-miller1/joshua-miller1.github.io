@@ -98,24 +98,32 @@ header img {
     height: 300px; 
     width: 300px;
     object-fit: cover;
-    margin: 0 auto 20px;
+    margin: auto;
     border-radius: 50%;
 }
 
 header div.intro {
     float: right;
     width: 60vw;
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
     margin: 0 auto 20px;
 }
 
-header span.skills, span.description {
+header span.name {text-transform: uppercase;}
+
+header span.skills {
     font-size: 1.25em;
     font-weight: 700;
 }
+
+header span.description {
+    font-size: 1.25em;
+    font-weight: 700;
+}
+
+
 
 .container {
     width: 100vw;
