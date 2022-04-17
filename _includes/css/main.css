@@ -109,10 +109,11 @@ header div.intro {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    margin: 0 auto 20px;
 }
 
-header .intro-text .skills .description {
-    font-size: 2em;
+header div.intro .skills .description {
+    font-size: 1.25em;
     font-weight: 700;
 }
 
