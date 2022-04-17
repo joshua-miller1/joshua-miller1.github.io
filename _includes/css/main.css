@@ -102,7 +102,7 @@ header img {
 }
 
 header div.intro {
-    float: right;
+    float: left;
     width: 60vw;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     margin: 0 auto 20px;
@@ -544,11 +544,11 @@ video.center {
 }
 
 @media (max-width: 1400px) {
-    .container {
-        width: 90vw;
-    }
-
     header img {
         display: none;
+    }
+
+    header intro {
+
     }
 }
