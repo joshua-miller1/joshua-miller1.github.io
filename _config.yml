@@ -4,7 +4,7 @@ email: /f/xzboaolj
 url: https://joshua-miller1.github.io
 description: "Career Objective: Recent graduate in Computer Science and Cybersecurity searching for an internship for the summer of 2022. I have the intention of working for my Masters of Business Administration in Cybersecurity."
 keywords: ""
-skills: "Programming in Java, Python, C++ - Experience with HTML and CSS - Research Cybertreats and APT groups - Network Scanning with NMAP"
+skills: "Object-Oriented Programming in Java, Python, C++ - Experience with HTML and CSS - Research Cybertreats and APT groups - Network Scanning with NMAP"
 meta_author: Miller Joshua
 
 # Google webmaster tools
@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
-  - line: 
+  - line: Greater Harrisburg Area 
+  - line: Greater Pittsburgh Area
 
 # Credits content
 credits:
