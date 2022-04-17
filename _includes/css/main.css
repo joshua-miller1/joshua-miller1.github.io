@@ -102,7 +102,7 @@ header img {
     border-radius: 50%;
 }
 
-header .intro-text .name {
+header intro {
     display: inline-block;
     width: 60vw;
     text-transform: uppercase;
