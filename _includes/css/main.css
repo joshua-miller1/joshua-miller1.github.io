@@ -563,4 +563,8 @@ video.center {
     header img {
         display: none;
     }
+
+    header div.intro {
+        width: 90vw;
+    }
 }
