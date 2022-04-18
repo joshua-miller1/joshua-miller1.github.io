@@ -568,9 +568,3 @@ video.center {
         width: 90vw;
     }
 }
-
-@media (min-width: 1800px) {
-    .container {
-        width: 1800px;
-    }
-}
