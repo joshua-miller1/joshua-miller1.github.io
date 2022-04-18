@@ -38,9 +38,9 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-    margin: 35px auto 25px;
+    margin: 35px auto 35px;
     padding: 0;
-    max-width: 250px;
+    max-width: 400px;
     border: 0;
     border-top: solid 5px;
     text-align: center;
@@ -90,6 +90,22 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
+}
+
+header div.column-30 {
+    float: left;
+    width: 30vw;
+}
+
+header div.column-60 {
+    float: left;
+    width: 60vw;
+}
+
+header .row::after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 header img {
