@@ -552,11 +552,13 @@ footer .footer-below {
     display: block;
 }
 
-video.center {
+video.introduction-center {
     display: block;
+    width: 40vw;
+    height: auto;
     margin-left: auto; 
     margin-right: auto; 
-    padding-top: 10vh;
+    padding-top: 100px;
 }
 
 @media (max-width: 1400px) {
